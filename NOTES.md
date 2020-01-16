@@ -14,7 +14,7 @@ Cryptopus Password Manager, Signal Messenger, Password Handling, Security Tutori
 
 12:30-13:30 - Zmittag
 
-13:30-16:00 - Hacksession 2
+13:30-16:15 - Hacksession 2
 
 16:15-17:00 - Abschluss, Resultate, Feedback, Apero
 
