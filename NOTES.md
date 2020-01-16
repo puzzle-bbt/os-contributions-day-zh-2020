@@ -2,7 +2,7 @@
 
 28.03.2020, Zürich
 
-Thema: IT-Security
+Thema: IT-Security, Hitobito und weitere
 
 Cryptopus Password Manager, Signal Messenger, Password Handling, Security Tutorials, OWASP
 
